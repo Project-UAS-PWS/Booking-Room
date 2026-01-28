@@ -41,7 +41,7 @@ Atur Koneksi DB & MYSQL (DB_DATABASE, dll jika diperlukan)
 <details>
 <summary>Klik disini!</summary>
 
-```
+```php
 DB_CONNECTION=sqlite
 # DB_HOST=127.0.0.1
 # DB_PORT=3306
